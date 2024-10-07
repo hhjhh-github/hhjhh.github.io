@@ -207,7 +207,7 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: true
+      sharing: false (default)
       license: false (default)
       aside:
         toc: true
