@@ -206,7 +206,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: article
+      layout: aside
       sharing: false (default)
       license: false (default)
       aside:
